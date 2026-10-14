@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Little Universe</title>
+  <style>
+    body {
+      background: #100d1c;
+      color: #f5eaff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    h1 {
+      color: #d6a8ff;
+      font-size: 42px;
+    }
+    p {
+      color: #c9bfd9;
+      font-size: 18px;
+    }
+    button {
+      background: #b783ff;
+      color: #160c25;
+      border: none;
+      padding: 12px 22px;
+      border-radius: 20px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>✨ My Little Universe ✨</h1>
+  <p>A little space for creativity, dreams, and learning.</p>
+  <button onclick="alert('Welcome to my universe! 💜')">
+    Enter My Universe
+  </button>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Little Universe</title>
+  <style>
+    body {
+      background: #100d1c;
+      color: #f5eaff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    h1 {
+      color: #d6a8ff;
+      font-size: 42px;
+    }
+    p {
+      color: #c9bfd9;
+      font-size: 18px;
+    }
+    button {
+      background: #b783ff;
+      color: #160c25;
+      border: none;
+      padding: 12px 22px;
+      border-radius: 20px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>✨ My Little Universe ✨</h1>
+  <p>A little space for creativity, dreams, and learning.</p>
+  <button onclick="alert('Welcome to my universe! 💜')">
+    Enter My Universe
+  </button>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Little Universe</title>
+  <style>
+    body {
+      background: #100d1c;
+      color: #f5eaff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    h1 {
+      color: #d6a8ff;
+      font-size: 42px;
+    }
+    p {
+      color: #c9bfd9;
+      font-size: 18px;
+    }
+    button {
+      background: #b783ff;
+      color: #160c25;
+      border: none;
+      padding: 12px 22px;
+      border-radius: 20px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>✨ My Little Universe ✨</h1>
+  <p>A little space for creativity, dreams, and learning.</p>
+  <button onclick="alert('Welcome to my universe! 💜')">
+    Enter My Universe
+  </button>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Little Universe</title>
+  <style>
+    body {
+      background: #100d1c;
+      color: #f5eaff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    h1 {
+      color: #d6a8ff;
+      font-size: 42px;
+    }
+    p {
+      color: #c9bfd9;
+      font-size: 18px;
+    }
+    button {
+      background: #b783ff;
+      color: #160c25;
+      border: none;
+      padding: 12px 22px;
+      border-radius: 20px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>✨ My Little Universe ✨</h1>
+  <p>A little space for creativity, dreams, and learning.</p>
+  <button onclick="alert('Welcome to my universe! 💜')">
+    Enter My Universe
+  </button>
+</body>
+</html>
